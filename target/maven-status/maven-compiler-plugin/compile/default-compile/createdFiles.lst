@@ -1,0 +1,6 @@
+commons\TestBase.class
+commons\ExcelReader.class
+commons\BasePage.class
+Pages\LoginPage.class
+commons\Configuration.class
+commons\DataProviderClass.class
