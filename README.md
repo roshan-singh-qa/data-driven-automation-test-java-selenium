@@ -4,7 +4,7 @@
 
 This repository uses Selenium, via a local Chrome Driver or a Remote Driver that connects to a Selenium Grid.
 
-Note: Maven needs to download the internet so this will take some time on first run. The command will populate
+Note: Maven needs to download from internet so this will take some time on first run. The command will populate
 your local Maven cache to speed things up on subsequent runs.
 
 ## Running Java and Maven on host
